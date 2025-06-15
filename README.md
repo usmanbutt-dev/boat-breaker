@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Boat Breaker Banner" width="100%">
+</p>
+
 # 🚤 Boat Breaker
 
 **Boat Breaker** is a stylized 3D axe-throwing game developed in Unity as part of a Game Development course project. Inspired by the mechanics of *Smash Hit*, this game lets players launch axes at boats gliding through a serene, low-poly environment — break as many as you can before they pass!
